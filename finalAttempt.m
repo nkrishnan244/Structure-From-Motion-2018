@@ -70,9 +70,9 @@ for m = 1:5
     %     PC3Dshow(X,cameraMat,rotationMat,rgbReal);
     %     figure;
     %     PC3Dshow(X0,cameraMat,rotationMat,rgbReal);
-    %     plot_reprojection('data/image0000002.bmp',R,C,K,X0,y2);
+    %     plot_reprojection('image0000002.bmp',R,C,K,X0,y2);
     %     figure
-    %     plot_reprojection('data/image0000002.bmp',R,C,K,X,y2);
+    %     plot_reprojection('image0000002.bmp',R,C,K,X,y2);
     
     %% Store matches with other images
     imageArray = (m+2):6;
