@@ -9,4 +9,4 @@ In order to run the code, run "finalScript.m". A plot of the 3D point cloud shou
   3) Use these same points and find the overlap with other images to find a transformation matrix that directly maps these new points 
      onto the 3D point cloud.
   4) Use non-linear triangulation for the other cameras to add points.
-  4) Repeat these steps for each pair of images. 
+  5) Repeat these steps for each pair of images. 
