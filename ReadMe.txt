@@ -10,3 +10,5 @@ In order to run the code, run "finalScript.m". A plot of the 3D point cloud shou
      onto the 3D point cloud.
   4) Use non-linear triangulation for the other cameras to add points.
   5) Repeat these steps for each pair of images. 
+  
+  The original images can be found as well. 
